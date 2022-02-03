@@ -1,0 +1,8 @@
+ArithmeticException						: number/0;
+Null­Pointer­Exception					: when a variable is accessed which is not pointing to any object and refers to nothing or null.	
+Array­Index­Out­Of­Bounds­Exception		:
+String­Index­Out­Of­Bounds­Exception	:
+Type­Not­Present­Exception				:
+Class­Cast­Exception					: when one tries to cast an Integer to a String
+Number­Format­Exception					: convert a string with improper format into a numeric value.
+FileNotFoundException: 					:

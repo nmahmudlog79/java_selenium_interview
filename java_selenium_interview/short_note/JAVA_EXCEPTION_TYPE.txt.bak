@@ -1,0 +1,8 @@
+ArithmeticException						: number/0;
+Null­Pointer­Exception					:		
+Array­Index­Out­Of­Bounds­Exception		:
+String­Index­Out­Of­Bounds­Exception	:
+Type­Not­Present­Exception				:
+Class­Cast­Exception					:
+Number­Format­Exception					:
+FileNotFoundException: 					:
